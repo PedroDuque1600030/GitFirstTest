@@ -1,0 +1,6 @@
+﻿  EstruturaDeDados.c
+c:\users\pedroduque\source\repos\project1\project1\estruturadedados.c(16): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\pedroduque\source\repos\project1\project1\estruturadedados.c(17): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Source.c
+  Generating Code...
+  Project1.vcxproj -> C:\Users\PedroDuque\source\repos\Project1\Debug\Project1.exe

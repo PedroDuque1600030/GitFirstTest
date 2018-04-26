@@ -1,0 +1,13 @@
+----- ALUNOS -----
+Numero:	 Pais:	 Nome:
+333	 PT	 JoaoPereira
+222	 PT	 Mario Constantino
+111	 PT	 Pedro Duque
+----- UC -----
+Numero:	 Ano:	 Sem.:	 ECT:	 Est.:	 Nome:
+789	 2	 2	 6	 1	 Matematica
+456	 1	 2	 6	 1	 Fisica
+123	 1	 1	 6	 1	 Programacao
+----- INSCRICOES -----
+222	 456	 456	 0
+111	 123	 123	 1
